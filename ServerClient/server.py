@@ -8,6 +8,8 @@ Server Client Connection
 # accept() - initiates a connection with the client 
 # close() - closes the connection with the client
 
+# recommiting to appear in contributions 
+
 import socket
 
 s = socket.socket()
