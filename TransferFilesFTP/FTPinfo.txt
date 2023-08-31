@@ -1,0 +1,13 @@
+# FTP (file transfer protocol): An internet tool provided by TCP/IP. 
+# Helps to transfer files between computers by providing access to directories or folders on remote computers and
+# allows software data text files to be transferred between different kinds of computers.
+
+# The end user in a connection is known as the local host and the server which provides data is known as the remote host.
+
+# FTP is a standard communiction protocol, like HTTP. 
+
+# However, HTTP lacks clarity and focus.
+# Moreover, the systems involved in connection are heterogeneous. Meaning that they differ in operating systems, 
+# directory structures, character sets, etc.
+
+# On the other hand, FTP shield the user from these differences to transfer data efficiently and reliably.

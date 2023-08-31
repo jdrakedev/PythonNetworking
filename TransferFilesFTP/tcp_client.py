@@ -1,0 +1,1 @@
+# We will be using FTP (file transfer protocol) to transfer files using TCP socket in python
