@@ -1,6 +1,6 @@
 # Server script for a program that uses FTP to transfer files using TCP socket in python
 
-# In this script we;
+# In this script:
 # After setting up a socket were going to accept multiple client connections,
 # then we are going to recieve files from the clients, and finally
 # were are going to save them on the server.
